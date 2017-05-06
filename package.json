@@ -7,7 +7,7 @@
     "build": "babel index.babel.js --out-file index.js",
     "test": "node test.js"
   },
-  "author": "",
+  "repository": "https://github.com/dylanitorium/poprocks",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.24.1",
